@@ -15,3 +15,16 @@ export class Counter extends React.Component {
     
     }
 }
+
+// export function counter (props){
+
+//     return <div>
+
+//     <h2>{props.count}</h2>
+
+//     <button onClick={props.reduce} className="red">-</button>
+//     <button onClick={props.add} className="green">+</button>
+    
+// </div>
+
+// }
